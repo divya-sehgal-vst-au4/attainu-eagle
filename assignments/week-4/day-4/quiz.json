@@ -1,4 +1,4 @@
-[
+{ "data" :[
     {
         "question": "WWW stands for?",
         "answer": "World Wide Web"
@@ -49,3 +49,4 @@
         "answer": "img"
     }
 ]
+}
